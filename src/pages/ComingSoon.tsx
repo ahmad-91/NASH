@@ -28,8 +28,8 @@ const ComingSoon: React.FC = () => {
           <img src={logo} className="h-20 w-20 text-blue-200" />
         </div>
         
-        <h1 className="text-5xl md:text-7xl font-extrabold mb-6 bg-gradient-to-r from-blue-200 to-white bg-clip-text text-transparent tracking-tight">
-          Get Stronger with A.I.
+        <h1 className="text-5xl md:text-5xl font-extrabold mb-6 bg-gradient-to-r from-blue-200 to-white bg-clip-text text-transparent tracking-tight">
+          Get Stronger A.i. & live coach powered
         </h1>
         
         <div className="space-y-6 mb-12">
