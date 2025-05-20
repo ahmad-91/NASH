@@ -80,6 +80,11 @@ const About: React.FC = () => {
           </div>
         </div>
       </div>
+
+      <footer className="border-t border-white/20 backdrop-blur-sm text-blue-200 py-8 px-4 text-center">
+        <p className="mb-2">COMPANY NACEUR SALMANE AL-OTAYBI FOR ARTIFICIAL INTELLIGENCE</p>
+        <p>D-U-N-S Number is 986459489</p>
+      </footer>
     </div>
   );
 };
